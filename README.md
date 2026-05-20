@@ -63,6 +63,11 @@ frontend/
     pages/
     types/
     utils/
+screenshots/
+  application-list.png
+  create-form.png
+  application-detail.png
+  need-more-info-state.png
 README.md
 ```
 
